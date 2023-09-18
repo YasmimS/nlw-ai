@@ -25,6 +25,8 @@ O NLW (Next Level Week) é um evento online de programação na prática da esco
 
 <br>
 
+OBS:. Regitrar uma conta em Open AI PLATFORM e gerar APIKEY para as requisições da API.
+
 ## 🛠 Principais Tecnologias
 
 - React
