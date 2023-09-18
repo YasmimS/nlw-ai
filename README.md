@@ -3,12 +3,13 @@ Aplicação construida no NLW IA da Rocketseat na trilha mastery.
 
 ![IA_NLW-PREVIEW](https://github.com/YasmimS/nlw-ai/assets/57332514/80718377-9f52-47fa-9ba3-00a3c94c2de5)
 
-Transcrição realizada e suguestão de título para o vídeo gerado pela IA:
+Transcrição realizada e sugestão de título para o vídeo gerado pela IA:
 
-![PREVIEW_IA_T](https://github.com/YasmimS/nlw-ai/issues/2#issue-1901804093)
+![IA_NLW-PREVIEW_T](https://github.com/YasmimS/nlw-ai/assets/57332514/4a8ae5cb-83b1-45a0-b623-a82a633abc47)
 
-![PREVIEW_IA_D](https://github.com/YasmimS/nlw-ai/issues/3#issue-1901805639)
+Transcrição realizada e sugestão de descrição para o vídeo gerado pela IA:
 
+![IA_NLW-PREVIEW_D](https://github.com/YasmimS/nlw-ai/assets/57332514/1b11fb31-e6c9-4c82-b9f2-25abfc7e0dcf)
 
 ## 💻 Projeto
 
